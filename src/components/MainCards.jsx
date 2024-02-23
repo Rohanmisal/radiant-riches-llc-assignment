@@ -34,6 +34,7 @@ const MainCards = () => {
                         <div className="card">
                             <div className="card-horizontal">
                                 <div className="img-square-wrapper">
+                                    <h3>1</h3>
                                     <img className="" src={img} alt="Card image cap" />
                                 </div>
                                 <div className="card-body">
@@ -75,6 +76,7 @@ const MainCards = () => {
                         <div className="card">
                             <div className="card-horizontal">
                                 <div className="img-square-wrapper">
+                                    <h3>1</h3>
                                     <img className="" src={img} alt="Card image cap" />
                                 </div>
                                 <div className="card-body">

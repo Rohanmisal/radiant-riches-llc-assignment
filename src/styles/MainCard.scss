@@ -12,10 +12,23 @@
   margin-bottom: 50px;
 
   > .img-square-wrapper {
+
     width: 200px;
+
+    > h3 {
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      background-color: #1B88F4;
+      border-radius: 100%;
+      border: 1px solid;
+      text-align: center;
+    }
   }
 
   > .card-body {
+    border: 1px solid;
+
     width: 480px;
   }
 
