@@ -1,5 +1,5 @@
 
-import './App.css'
+import "./styles/App.scss"
 import Body from './components/Body'
 
 function App() {
