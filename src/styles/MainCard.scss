@@ -68,3 +68,15 @@
   justify-items: center;
   margin-top: 60px;
 }
+
+.vertical {
+
+display: flex;
+flex-wrap: wrap;
+
+  > .cardcomp{
+    width: 224px;
+    padding: 8px;
+  }
+
+}
